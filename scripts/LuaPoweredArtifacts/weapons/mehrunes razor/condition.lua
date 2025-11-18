@@ -1,9 +1,9 @@
 local storage = require("openmw.storage")
 local self = require("openmw.self")
 
-require("scripts.ArtifactsWithAttitude.utils.instakill")
+require("scripts.LuaPoweredArtifacts.utils.instakill")
 
-local sectionRazor = storage.globalSection("SettingsArtifactsWithAttitude_razor")
+local sectionRazor = storage.globalSection("SettingsLuaPoweredArtifacts_razor")
 
 function RazorCond(attack)
     if not sectionRazor:get("enabled") then

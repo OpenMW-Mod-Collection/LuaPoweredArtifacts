@@ -1,4 +1,4 @@
-# Artifacts with Attitude
+# Lua-powered Artifacts
 
 ## 1.0
 

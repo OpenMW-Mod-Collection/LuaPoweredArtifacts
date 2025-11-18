@@ -1,6 +1,6 @@
 local storage = require("openmw.storage")
 
-local sectionScourge = storage.globalSection("SettingsArtifactsWithAttitude_scourge")
+local sectionScourge = storage.globalSection("SettingsLuaPoweredArtifacts_scourge")
 
 function ScourgeCond(attack)
     if not sectionScourge:get("enabled") then

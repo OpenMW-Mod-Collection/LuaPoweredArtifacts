@@ -1,5 +1,5 @@
 local I = require('openmw.interfaces')
-require("scripts.ArtifactsWithAttitude.weapons.applyEffect")
+require("scripts.LuaPoweredArtifacts.weapons.applyEffect")
 
 I.Combat.addOnHitHandler(function(attack)
     ApplyEffect(attack)

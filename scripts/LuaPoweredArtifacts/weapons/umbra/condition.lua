@@ -1,6 +1,6 @@
 local storage = require("openmw.storage")
 
-local sectionUmbra = storage.globalSection("SettingsArtifactsWithAttitude_umbra")
+local sectionUmbra = storage.globalSection("SettingsLuaPoweredArtifacts_umbra")
 
 local sourceTypes = {
     melee = function(attack)

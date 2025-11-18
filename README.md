@@ -1,4 +1,4 @@
-# Artifacts with Attitude (OpenMW)
+# Lua-powered Artifacts (OpenMW)
 
 New effects for unique weapons powered by Lua.
 
