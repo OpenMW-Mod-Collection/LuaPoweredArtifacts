@@ -1,0 +1,3 @@
+CREATURE: scripts/ArtifactsWithAttitude/creature.lua
+NPC: scripts/ArtifactsWithAttitude/npc.lua
+PLAYER: scripts/ArtifactsWithAttitude/player.lua
