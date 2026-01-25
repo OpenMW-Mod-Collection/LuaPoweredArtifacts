@@ -13,8 +13,8 @@ preset_desc: |
   - LM -> Luck Modifier
   
   Available presets (in percents):
-  - Oblivion-style -> PL * 0.05
-  - Skyrim-style -> 2/101 -> 1.98%
+  - Oblivion -> PL * 0.05
+  - Skyrim -> 2/101 -> 1.98%
   - Custom -> BC + PL * LM
 baseChance_name: "Base Chance"
 baseChance_desc: "BC value for Custom preset."

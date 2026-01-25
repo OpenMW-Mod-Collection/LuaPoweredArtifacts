@@ -23,8 +23,8 @@ I.Settings.registerGroup {
             argument = {
                 l10n = "LuaPoweredArtifacts",
                 items = {
-                    "Oblivion-style",
-                    "Skyrim-style",
+                    "Oblivion",
+                    "Skyrim",
                     "Custom",
                 },
             },
